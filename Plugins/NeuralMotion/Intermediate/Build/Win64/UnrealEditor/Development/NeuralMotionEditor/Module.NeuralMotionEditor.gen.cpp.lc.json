@@ -1,0 +1,17 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\mayur\\onedrive\\documents\\unreal projects\\mmimplementation\\plugins\\neuralmotion\\intermediate\\build\\win64\\unrealeditor\\development\\neuralmotioneditor\\module.neuralmotioneditor.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\mayur\\onedrive\\documents\\unreal projects\\mmimplementation\\intermediate\\build\\win64\\mmimplementationeditor\\development\\unrealed\\sharedpch.unrealed.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\mayur\\onedrive\\documents\\unreal projects\\mmimplementation\\plugins\\neuralmotion\\intermediate\\build\\win64\\unrealeditor\\development\\neuralmotioneditor\\definitions.neuralmotioneditor.h",
+            "c:\\users\\mayur\\onedrive\\documents\\unreal projects\\mmimplementation\\plugins\\neuralmotion\\intermediate\\build\\win64\\unrealeditor\\inc\\neuralmotioneditor\\neuralmotioneditor.init.gen.cpp",
+            "c:\\users\\mayur\\onedrive\\documents\\unreal projects\\mmimplementation\\plugins\\neuralmotion\\intermediate\\build\\win64\\unrealeditor\\inc\\neuralmotioneditor\\neuralmotionfactory.gen.cpp",
+            "c:\\users\\mayur\\onedrive\\documents\\unreal projects\\mmimplementation\\plugins\\neuralmotion\\source\\neuralmotioneditor\\public\\neuralmotionfactory.h",
+            "c:\\users\\mayur\\onedrive\\documents\\unreal projects\\mmimplementation\\plugins\\neuralmotion\\intermediate\\build\\win64\\unrealeditor\\inc\\neuralmotioneditor\\neuralmotionfactory.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

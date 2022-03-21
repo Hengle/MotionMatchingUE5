@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\mayur\\onedrive\\documents\\unreal projects\\mmimplementation\\plugins\\neuralmotion\\source\\neuralmotion\\private\\neuralmotion.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\mayur\\onedrive\\documents\\unreal projects\\mmimplementation\\intermediate\\build\\win64\\mmimplementation\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\mayur\\onedrive\\documents\\unreal projects\\mmimplementation\\plugins\\neuralmotion\\intermediate\\build\\win64\\unrealgame\\development\\neuralmotion\\definitions.neuralmotion.h",
+            "c:\\users\\mayur\\onedrive\\documents\\unreal projects\\mmimplementation\\plugins\\neuralmotion\\source\\neuralmotion\\public\\neuralmotion.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

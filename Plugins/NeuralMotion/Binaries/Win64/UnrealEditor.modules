@@ -1,0 +1,8 @@
+{
+	"BuildId": "19206456",
+	"Modules": 
+	{
+		"NeuralMotion": "UnrealEditor-NeuralMotion.dll",
+		"NeuralMotionEditor": "UnrealEditor-NeuralMotionEditor.dll"
+	}
+}

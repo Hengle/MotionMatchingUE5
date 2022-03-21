@@ -1,0 +1,14 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.NeuralMotionEditor.cpp.obj": [
+			"NeuralMotionAssetActions.cpp.obj",
+			"NeuralMotionEditor.cpp.obj",
+			"NeuralMotionFactory.cpp.obj"
+		],
+		"Module.NeuralMotionEditor.gen.cpp.obj": [
+			"NeuralMotionEditor.init.gen.cpp.obj",
+			"NeuralMotionFactory.gen.cpp.obj"
+		]
+	}
+}

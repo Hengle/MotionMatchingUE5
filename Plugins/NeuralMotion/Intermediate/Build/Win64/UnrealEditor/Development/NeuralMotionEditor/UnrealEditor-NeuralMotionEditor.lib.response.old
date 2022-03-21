@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-NeuralMotionEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\mayur\OneDrive\Documents\Unreal Projects\MMImplementation\Intermediate\Build\Win64\MMImplementationEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\mayur\OneDrive\Documents\Unreal Projects\MMImplementation\Plugins\NeuralMotion\Intermediate\Build\Win64\UnrealEditor\Development\NeuralMotionEditor\NeuralMotionEditor.cpp.obj"
+"C:\Users\mayur\OneDrive\Documents\Unreal Projects\MMImplementation\Plugins\NeuralMotion\Intermediate\Build\Win64\UnrealEditor\Development\NeuralMotionEditor\Default.rc2.res"
+/OUT:"C:\Users\mayur\OneDrive\Documents\Unreal Projects\MMImplementation\Plugins\NeuralMotion\Intermediate\Build\Win64\UnrealEditor\Development\NeuralMotionEditor\UnrealEditor-NeuralMotionEditor.lib"

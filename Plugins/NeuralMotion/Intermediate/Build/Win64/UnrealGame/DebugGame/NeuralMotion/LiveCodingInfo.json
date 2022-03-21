@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.NeuralMotion.cpp.obj": [
+			"NeuralMotion.cpp.obj",
+			"NeuralMotionDatabase.cpp.obj"
+		],
+		"Module.NeuralMotion.gen.cpp.obj": [
+			"NeuralMotion.init.gen.cpp.obj",
+			"NeuralMotionDatabase.gen.cpp.obj"
+		]
+	}
+}
